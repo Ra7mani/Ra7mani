@@ -15,10 +15,7 @@
 
 ---
 
-## 🧑‍💻 Profile Views
-![](https://komarev.com/ghpvc/?username=Ra7mani&color=blue)
 
----
 
 ## 🛠 Tech Stack
 
@@ -31,12 +28,11 @@
 
 ### 🌐 Frontend  
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 ### ⚙️ Backend  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+
 
 ### 📱 Mobile  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
@@ -45,7 +41,6 @@
 ### 🗄 Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### 🔧 DevOps & Tools  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -73,10 +68,10 @@
 
 ### 🌎 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-rahmani-4947b3258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:medrahmeni1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
