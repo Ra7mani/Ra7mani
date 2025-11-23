@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Rahmani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineering;Full-Stack+Developer;Passionate+about+Scalable+and+Innovative+Solutions;Building+ParkLink+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineering;Full-Stack+Developer;Passionate+about+Innovative+Solutions;Building+ParkLink+Platform" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@ I’m a **Software Engineering student** passionate about building **scalable, s
 My main focus is **Full-Stack Development**, using **.NET** for the backend and **Angular** for the frontend to deliver modern and efficient web solutions.  
 
 **My expertise includes:**  
-- **Backend:** .NET Core, RESTful APIs, Entity Framework, Spring Boot, Node.js, Express  
+- **Backend:** .NET Core, RESTful APIs, Entity Framework 
 - **Frontend:** Angular, TypeScript, HTML, CSS  
 - **Mobile:** Flutter, Kotlin  
 - **Databases:** SQL Server, MySQL  
