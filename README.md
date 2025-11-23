@@ -1,21 +1,28 @@
 <h1 align="center">Hi there, I'm Mohamed Rahmani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Passionate+about+AI+%26+Cloud;Building+ParkLink+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineering;Full-Stack+Developer;Passionate+about+Scalable+and+Innovative+Solutions;Building+ParkLink+Platform" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **ParkLink**, a smart parking management platform.
-- 💡 Passionate about **AI, Cloud Computing, and System Design**.
-- 🎯 Focused on **Web, Mobile, and .NET development**.
-- 💬 Ask me about **.NET, Angular, Flutter, SQL, and clean architecture**.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/)**
+I’m a **Software Engineering student** passionate about building **scalable, secure, and user-friendly applications**.  
+My main focus is **Full-Stack Development**, using **.NET** for the backend and **Angular** for the frontend to deliver modern and efficient web solutions.  
+
+**My expertise includes:**  
+- **Backend:** .NET Core, RESTful APIs, Entity Framework, Spring Boot, Node.js, Express  
+- **Frontend:** Angular, TypeScript, HTML, CSS  
+- **Mobile:** Flutter, Kotlin  
+- **Databases:** SQL Server, MySQL  
+- **Tools & Practices:** Git, Docker, Agile methodologies  
+
+I follow **Clean Architecture principles** to write clean, maintainable, and robust code, ensuring scalability, testability, and long-term reliability.  
+I aim to contribute to **innovative software projects** that make a real impact, combining creativity, logic, and teamwork.  
+
+📩 Always open to **connecting, collaborating, and learning** from other tech enthusiasts!
 
 ---
-
-
 
 ## 🛠 Tech Stack
 
@@ -32,7 +39,8 @@
 ### ⚙️ Backend  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ### 📱 Mobile  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
@@ -63,15 +71,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ra7mani&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-### 🌎 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-rahmani-4947b3258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:medrahmeni1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
