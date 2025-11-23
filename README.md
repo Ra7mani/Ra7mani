@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💻 Profile Views
-![](https://komarev.com/ghpvc/?username=mohamedrahmani&color=blue)
+![](https://komarev.com/ghpvc/?username=Ra7mani&color=blue)
 
 ---
 
@@ -56,18 +56,18 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohamedrahmani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ra7mani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedrahmani&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ra7mani&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrahmani&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra7mani&theme=dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=mohamedrahmani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ra7mani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mohamedrahmani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ra7mani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
